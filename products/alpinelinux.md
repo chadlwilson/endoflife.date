@@ -17,7 +17,7 @@ sortReleasesBy: 'cycleShortHand'
 releases:
 -   releaseCycle: "3.16"
     eol: 2024-05-23
-    cycleShortHand: 315
+    cycleShortHand: 316
     latest: "3.15.4"
     link: https://alpinelinux.org/posts/Alpine-3.16.0-released.html
     latestReleaseDate: 2022-05-23
